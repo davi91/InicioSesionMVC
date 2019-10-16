@@ -54,14 +54,6 @@ public class InicioSesionView extends VBox {
 		setFillWidth(false);
 	}
 
-	public Label getUserLbl() {
-		return userLbl;
-	}
-
-	public Label getPasswordLbl() {
-		return passwordLbl;
-	}
-
 	public TextField getUserTxt() {
 		return userTxt;
 	}
